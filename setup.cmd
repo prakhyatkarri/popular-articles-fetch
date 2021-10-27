@@ -1,1 +1,1 @@
-SET FLASK_APP=app.py
+SET FLASK_APP=stage_articles.py
